@@ -2,4 +2,6 @@ hello git!
 
 I've create a new branch named dev.
 
-I'm test merge and conflict
+merge dev with commit log
+
+merge dev with no-ff and commit
