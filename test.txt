@@ -1,6 +1,6 @@
 hello git!
 
-I've create a new branch named dev.
+I've created a new branch named dev.
 
 merge dev with commit log
 
