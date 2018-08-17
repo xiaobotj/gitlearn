@@ -4,4 +4,6 @@ I've create a new branch named dev.
 
 merge dev with commit log
 
-merge dev with no-ff and commit
+merge dev with no-ff and commit.
+
+modify it without merge dev.
