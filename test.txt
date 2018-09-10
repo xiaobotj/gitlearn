@@ -5,3 +5,5 @@ I've created a new branch named dev.
 merge dev with commit log
 
 merge dev with no-ff and commit
+
+I am in my branch: xiaobo/dev
